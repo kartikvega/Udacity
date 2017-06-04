@@ -8,7 +8,7 @@ This repository contains my solutions for the DLNF
 
 ### Projects
 
-* [Your First Neural Network](https://github.com/kartikT007/Udacity/deep-learning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals. Should contain the solution with 3 activation functions, RELU, Sigmoid and TanH written in Numpy. #TODO: Need to implement leakyrelu and adagrad and compare the validation loss across different activation functions and write the pros and cons. 
+* [Your First Neural Network](https://github.com/kartikT007/Udacity/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals. Should contain the solution with 3 activation functions, RELU, Sigmoid and TanH written in Numpy. #TODO: Need to implement leakyrelu and adagrad and compare the validation loss across different activation functions and write the pros and cons. 
 
 
 ## Dependencies
